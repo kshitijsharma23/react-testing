@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter unit test cases should decrease counter on decrement 1`] = `ShallowWrapper {}`;
+
+exports[`Counter unit test cases should increase counter on increment 1`] = `ShallowWrapper {}`;
+
+exports[`Counter unit test cases should render snapshot 1`] = `ShallowWrapper {}`;
